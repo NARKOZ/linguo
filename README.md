@@ -2,7 +2,7 @@
 
 Linguo detects the language of a given text using [Free Language Detection API](http://detectlanguage.com).
 
-[![Build Status](https://secure.travis-ci.org/NARKOZ/linguo.png)](http://travis-ci.org/NARKOZ/linguo)
+[![Build Status](https://travis-ci.org/NARKOZ/linguo.png)](http://travis-ci.org/NARKOZ/linguo)
 
 ## Installation
 
