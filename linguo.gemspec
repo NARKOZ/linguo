@@ -3,7 +3,7 @@ require File.expand_path('../lib/linguo/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Nihad Abbasov", "Laurynas Butkus"]
-  gem.email         = ["mail@narkoz.me", "laurynas.butkus@gmail.com"]
+  gem.email         = ["nihad@42na.in", "laurynas.butkus@gmail.com"]
   gem.description   = %q{Language detection library for Ruby}
   gem.summary       = %q{Linguo detects the language of a given piece of text}
   gem.homepage      = "https://github.com/narkoz/linguo"
